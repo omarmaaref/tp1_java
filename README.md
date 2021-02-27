@@ -4,15 +4,19 @@ reponse lab 3:
 
 
 1.2.1 What type of instance variables does the Order class have?
--  MyDate: we used an object of MyDate class
+   -  MyDate: we used an object of MyDate class
   -double ( orderAmount)
   -String ( product,costumer)
   -int ( quality)
+ 
  1.2.2 How is your MyDate class reused?
- we used an object of MyDate in the class Order and TestMyDate
- 1.2.3 How do you construct an Order?
- by creating a new Order object (using it s constructor)
- 1.2.4 How many Order objects are created in the main method of TestOrders?
+   we used an object of MyDate in the class Order and TestMyDate
+
+
+1.2.3 How do you construct an Order?
+   by creating a new Order object (using it s constructor)
+
+1.2.4 How many Order objects are created in the main method of TestOrders?
   2 objects of  Order are created
 
 
